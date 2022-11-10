@@ -15,7 +15,10 @@ rdkit == 2019.03.4.0
 
 ccmpred (https://github.com/soedinglab/CCMpred)
 
-# how to use 
+# Dataset 
+reference --- https://github.com/595693085/DGraphDTA
+
+# How to use 
 PreHandData.py --- prehandle data
 
 python Davis_train.py ---train our model on Davis
