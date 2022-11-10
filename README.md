@@ -16,8 +16,8 @@ rdkit == 2019.03.4.0
 ccmpred (https://github.com/soedinglab/CCMpred)
 
 # how to use 
-PreHandData.py --- Prehandle data
+PreHandData.py --- prehandle data
 
-python Davis_train.py ---run our model on Davis
+python Davis_train.py ---train our model on Davis
 
-test.py --- test the model we got
+test.py --- test the model we have gotten
