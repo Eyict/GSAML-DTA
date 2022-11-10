@@ -7,7 +7,7 @@ from collections import OrderedDict
 from rdkit import Chem
 from rdkit.Chem import MolFromSmiles
 import networkx as nx
-from utils_HU import *
+from utils import *
 
 # nomarlize
 def dic_normalize(dic):
