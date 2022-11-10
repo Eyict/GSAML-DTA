@@ -1,5 +1,5 @@
 from Davis_gnn import GNNNet
-from utils_HU import *
+from utils import *
 from emetrics import *
 import torch.nn as nn
 from data_process import create_dataset_for_train
