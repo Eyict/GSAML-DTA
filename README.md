@@ -18,6 +18,10 @@ ccmpred (https://github.com/soedinglab/CCMpred)
 # Dataset 
 reference --- https://github.com/595693085/DGraphDTA
 
+# Models
+There are some models we have learned which can be find in releases.
+
+
 # How to use 
 PreHandData.py --- prehandle data
 
