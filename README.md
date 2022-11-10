@@ -17,5 +17,7 @@ ccmpred (https://github.com/soedinglab/CCMpred)
 
 # how to use 
 PreHandData.py --- Prehandle data
+
 python Davis_train.py ---run our model on Davis
+
 test.py --- test the model we got
